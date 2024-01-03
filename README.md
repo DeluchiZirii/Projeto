@@ -9,7 +9,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-- Esse projeto está sob a licença MIT.
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
 
 ---
 
