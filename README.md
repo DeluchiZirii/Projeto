@@ -7,6 +7,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+---
+
 - Esse projeto está sob a licença MIT.
 
 ---
